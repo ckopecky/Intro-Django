@@ -4,7 +4,7 @@ from rest_framework.authtoken.views import obtain_auth_token
 
 from . import views
 
-from notes.api import NoteViewSet
+from api import NoteViewSet
 
 app_name = 'notes'
 urlpatterns = [

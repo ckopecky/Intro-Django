@@ -14,6 +14,9 @@ pytz = "*"
 sqlparse = "*"
 whitenoise = "*"
 Django = "*"
+django-cors-headers = "*"
+djangorestframework = "*"
+djangorestframework-jwt = "*"
 
 [requires]
 python_version = "3"
